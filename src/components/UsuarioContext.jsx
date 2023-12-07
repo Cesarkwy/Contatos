@@ -10,7 +10,7 @@ export default function UsuarioProvider({ children }) {
     const [email, setEmail] = useState("");
 
     const [usuarios, setUsuarios] = useState([]);
-    const url = "http://192.168.2.11:9081/usuarios/";
+    const url = "http://ipv4:9081/usuarios/";
 
     function buscarUsuarios() {
         fetch(url)
