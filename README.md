@@ -1,3 +1,13 @@
+# Pequeno projeto para salvar contatos - React Native
+
+<div align="center">
+<img src="https://github.com/Cesarkwy/Contatos/assets/95838485/374ec2a7-be70-41be-a9ad-a07bbe57e69d" width="200px" />
+<img src="https://github.com/Cesarkwy/Contatos/assets/95838485/dbe5756c-ed7d-427c-a396-90063eed2e27" width="200px" />
+<img src="https://github.com/Cesarkwy/Contatos/assets/95838485/edeba22c-c253-4093-84fb-160e9c823219" width="200px" />
+<img src="https://github.com/Cesarkwy/Contatos/assets/95838485/0e993d8d-e1b5-4d14-811a-f39ba70befe9" width="200px" />
+</div>
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
